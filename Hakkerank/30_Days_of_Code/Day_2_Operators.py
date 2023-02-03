@@ -1,4 +1,5 @@
-
+# Hackerrank 30 days of code
+# Day 2: Operators
 
 # Task
 # Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price
