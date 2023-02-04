@@ -16,7 +16,7 @@
 # Output Format
 # Print the three lines as explained above.
 
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+# ===== Write your code here =====
 
 if __name__ == '__main__':
     a = int(input())
